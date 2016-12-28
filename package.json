@@ -1,0 +1,19 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "a collection of kata solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalleng/CodeWars.git"
+  },
+  "author": "jalleng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jalleng/CodeWars/issues"
+  },
+  "homepage": "https://github.com/jalleng/CodeWars#readme"
+}
